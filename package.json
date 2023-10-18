@@ -22,8 +22,8 @@
       }
     }
   },
-  "homepage": "https://github.com/swagger-api/swagger-ui",
-  "repository": "git@github.com:swagger-api/swagger-ui.git",
+  "homepage": "https://github.com/kurilovvo/swagger-ui",
+  "repository": "git@github.com:kurilovvo/swagger-ui.git",
   "contributors": [
     "(in alphabetical order)",
     "Anna Bodnia <anna.bodnia@gmail.com>",
